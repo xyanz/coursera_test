@@ -1,0 +1,9 @@
+.single-really-tall-section {
+	height: 1000px;
+	background-color: #E0F2F1;
+}
+@media (max-width: 767px) {
+  .navbar-default .navbar-collapse {
+  	background-color: #E8EAF6;
+  }
+}
